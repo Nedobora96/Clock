@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>sony_ericsson.png</file>
+    </qresource>
+</RCC>
